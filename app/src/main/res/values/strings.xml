@@ -1,0 +1,36 @@
+<resources>
+    <!--Nombre de la app -->
+    <string name="app_name">pmdm06</string>
+    
+    <!--Detalles sobre cada prueba según su marcador -->
+    <string name="text_mark_1">Para comenzar nuestra aventura lo primero que necesitamos es...¡Un buen mapa de la zona! El monitor \"Sanity\" te dará un mapa roto.\n Deberás reconstruirlo para conseguir la contraseña ¡Adelante!</string>
+    <string name="text_mark_2">Las ruinas antiguas guardan secretos y nuestra misión es decubrirlos. El monitor \"Runish crash\" marcará el inicio de la carrera.\n Completa la carrera para conseguir la contraseña!</string>
+    <string name="text_mark_3">Aku AKu quiere ayudarte en esta aventura, pero para ello debes encontrarlo. Sigue las pistas de los troncos para desbloquear tus poderes.\n ¡Encuentra al monitor \"Aku Aku\" para que pueda darte tu recompensa!</string>
+    <string name="text_mark_4">En este punto, el monitor \"Mad Mix\" te mostrará una mesa con 5 ingredientes. \n Deberás mezclar las botellas en el orden correcto según la pista, sin causar una explosión para conseguir la contraseña</string>
+    <string name="text_mark_5">En este punto, el monitor \"River Madness\",te mostrará piedras y plantas.\n ¿Qué debes hacer? Pisa sólo las \"piedras seguras\" (cartones marcados con huellas) para cruzar el río. Si tocas una “planta carnívora” (Cartón marcado en rojo), vuelves al inicio del recorrido.</string>
+    <string name="text_mark_6">El monitor \"Nitro\", te pedirá el poder que te concedió \"Uka Uka\", deberás dárselo para poder continuar. \n Según el poder que hayas adquirido recibirás un beneficio para finalizar la prueba.\n A) Más tiempo\n B) Pelota de gomaespuma más grande\n Aprovecha el beneficio de tu poder para derribar todos los cristales misteriosos que puedas</string>
+    <string name="text_mark_7">El monitor \"Dark soul\" activará el juego de sombras.\n Verás una pared con una serie de figuras proyectadas. Deberás adivinar los nombres de las figuras para desbloquear la contraseña.</string>
+    <string name="text_mark_8">El monitor \"Fruity Wumpa\" te mostrará la fruta prohibida.\n Deberás meter la cabeza en un balde de agua y conseguir sacarla para desbloquear la contraseña.</string>
+    <string name="text_mark_9">El monitor \"Gema Active\" te indicará dónde se encuentran las gemas.\n Deberás cruzar el puente de obstáculos para conseguirla y volver. Cuando el monitor tenga la Gema podrás ir a por la siguiente.\n Deberás traerlas de una en una para desbloquear la contraseña.</string>
+    <string name="text_mark_10">Has llegado al último templo, donde los Antiguos Guardianes del Tiempo protegieron el Cristal Supremo. Solo quienes dominen la forma y la velocidad podrán acceder al secreto final.\n El monitor \"Final Trial\" te mostrará una figura sagrada hecha con ramas y palos.\n ¡Busca tus propios palos y ramas porque deberás de reproducir esta figura para desbloquear la contraseña final y ganar la Gincana!</string>
+
+    <!--Titulos de las actividades de cada marcador -->
+    <string name="act_1">Mapa fragmentado</string>
+    <string name="act_2">La carrera de ruinas</string>
+    <string name="act_3">Poderes de la selva</string>
+    <string name="act_4">El experimento mutante</string>
+    <string name="act_5">Obstáculos en el río</string>
+    <string name="act_6">Consigue su poder</string>
+    <string name="act_7">La oscuridad que alumbra</string>
+    <string name="act_8">Recolección de Wumpa</string>
+    <string name="act_9">Recolección de gemas</string>
+    <string name="act_10">Reto de los antiguos</string>
+
+    <!--Textos del dialog_personalized -->
+    <string name="nombre_actividad">Nombre actividad</string>
+    <string name="detalles_actividad">Detalles de la actividad</string>
+    <string name="password">Password</string>
+    <string name="introduce_password">Introduce la contraseña</string>
+    <string name="aceptar">Aceptar</string>
+
+</resources>

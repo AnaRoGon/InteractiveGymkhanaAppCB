@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- Título de la actividad -->
+    <TextView
+        android:id="@+id/dialogTitle"
+        style="@style/CustomTitleStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nombre_actividad"
+        android:padding="16dp" />
+
+    <!-- Información de la actividad -->
+    <TextView
+        android:id="@+id/dialog_info"
+        style="@style/CustomTextViewStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/detalles_actividad"
+        android:padding="16dp"/>
+
+    <!-- Password para seguir -->
+    <TextView
+        android:id="@+id/password_info"
+        style="@style/CustomTextViewStylePassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="@string/password" />
+
+    <!-- Campo de contraseña -->
+    <EditText
+        android:id="@+id/password_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/introduce_password"
+        android:inputType="textPassword"
+        android:padding="20dp"
+        android:paddingBottom="20dp"
+        android:backgroundTint="@color/bananacrash"/>
+
+    <!-- Botón aceptar -->
+    <Button
+        android:id="@+id/finish_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aceptar"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:enabled="false"/>
+</LinearLayout>
