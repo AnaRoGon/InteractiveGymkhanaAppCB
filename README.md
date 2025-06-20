@@ -30,21 +30,21 @@ Puedes acceder desde este enlace a un vídeo en el que se muestra el funcionamie
 
 # Algunas capturas de la aplicación
 
-## Petición de permisos de acceso a la ubicación
+Petición de permisos de acceso a la ubicación
 
 ![05](https://github.com/user-attachments/assets/86d80f6e-d480-465a-acb3-454b9aa79c93)
 
-## Switch que controla la activación y desactivación de la ubicación actual
+Switch que controla la activación y desactivación de la ubicación actual
 
 ![02](https://github.com/user-attachments/assets/1591f508-d908-4e1a-a056-aa8d065856a2)
 
-## Marcadores y mapa personalizado 
+Marcadores y mapa personalizado 
 
 ![01](https://github.com/user-attachments/assets/51808254-295c-4d0d-b672-c387075f4a6e)
 
 ![03](https://github.com/user-attachments/assets/afa36f20-d845-46c7-87b4-39bd53bd7062)
 
-## Ejemplo de mensaje que salta al clicar en la ventana de cada marcador con la descripción de la actividad de la Gincana a realizar y la contraseña para avanzar
+Ejemplo de mensaje que salta al clicar en la ventana de cada marcador con la descripción de la actividad de la Gincana a realizar y la contraseña para avanzar
 
 ![04](https://github.com/user-attachments/assets/e082f150-ab67-4873-9e72-ec949a96f8e1)
 
